@@ -1,7 +1,7 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-_drafts
-klise-*.gem
-Gemfile.lock
+code/_site/
+code/.sass-cache/
+code/.jekyll-cache/
+code/.jekyll-metadata
+code/_drafts
+code/klise-*.gem
+code/Gemfile.lock
